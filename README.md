@@ -15,7 +15,7 @@
     - Đăng nhập
     - Nhiều người dùng vào cùng lúc, không treo
     - Broadcast: ``broadcast "câu nói"`` để gửi câu nói tới mọi user đang online
-    - Quản lý danh sách client: gõ ``show`` để hiển thị các user đang online
+    - Quản lý danh sách client: gõ ``users`` để hiển thị các user đang online
   - Cần làm:
     - In danh sách các người dùng đã đăng ký (Trịnh)
     - Gửi client-server-client (Trịnh/Hiếu, cần GUI test thử chức năng này, có thể đã chạy được rồi)
